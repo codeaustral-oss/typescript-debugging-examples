@@ -1,5 +1,7 @@
 # TypeScript Debugging Examples
 
+[![CI](https://github.com/codeaustral-oss/typescript-debugging-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/codeaustral-oss/typescript-debugging-examples/actions/workflows/ci.yml)
+
 Small TypeScript regression examples with Vitest coverage.
 
 These examples are intentionally compact. They show the kind of bug reproduction and fix shape that makes pull requests easier to review.
